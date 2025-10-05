@@ -1,6 +1,6 @@
 # Cannabis Consumer Insights  
 
-This repository contains an interactive Jupyter Notebook (`cannabis_consumers.ipynb`) that explores consumer behavior in the cannabis market, using simulated data built on the findings from the **Numerator “Budding Behaviors — Cannabis Consumers”** report. The analysis demonstrates how to go from high-level market report metrics to actionable data insights via clustering, visualization, and segmentation.
+This repository contains an interactive Jupyter Notebook (`cannabis_consumers.ipynb`) that explores consumer behaviour in the cannabis market, using simulated data built on the findings from the **Numerator “Budding behaviours — Cannabis Consumers”** report. The analysis demonstrates how to go from high-level market report metrics to actionable data insights via clustering, visualization, and segmentation.
 
 ---
 
