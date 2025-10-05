@@ -52,3 +52,26 @@ This repository contains an interactive Jupyter Notebook (`cannabis_consumers.ip
   High spend and high frequency. Likely THC-dominant, high value per user. Prime target for premium offerings, subscriptions, or loyalty models.
 
 These segments highlight how cannabis consumers fall into **Value (CBD)**, **Mainstream (Mixed)**, and **Premium (THC)** archetypes — useful for tailoring marketing and product strategies.
+
+---
+
+## 🎯 Marketing Strategies
+
+Based on the identified segments, potential marketing approaches include:  
+
+- **Cluster 0 – Occasional / Budget Users**  
+  - Emphasize affordability and accessibility (discounts, entry-level pricing)  
+  - Highlight health/wellness positioning for CBD-based products  
+  - Use educational campaigns to lower barriers for first-time users  
+
+- **Cluster 1 – Regular / Balanced Users**  
+  - Offer loyalty rewards and bundled product deals to drive retention  
+  - Showcase versatility (mix of CBD & THC product formats: edibles, flower, vapes)  
+  - Focus messaging on everyday integration and balanced lifestyles  
+
+- **Cluster 2 – Premium / Heavy Users**  
+  - Launch premium product lines (craft flower, high-end vapes, exclusive strains)  
+  - Promote memberships, subscription boxes, or VIP clubs  
+  - Build brand identity around exclusivity, quality, and “connoisseur” experiences  
+
+By tailoring strategies to these segments, brands can capture both **volume (budget users)** and **value (premium heavy users)** while maintaining strong engagement with the mainstream base.
