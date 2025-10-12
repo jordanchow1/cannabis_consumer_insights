@@ -83,6 +83,14 @@ Through simulated consumer-level data and clustering analysis, three distinct ca
 
 Based on the identified consumer segments, tailored marketing strategies can be developed to optimize engagement, retention, and conversion across the cannabis market. Each strategy aligns with the behavioral and spending patterns revealed through clustering analysis.
 
+### 📊 Strategy Matrix
+
+| **Segment**              | **Primary Objective**                                         | **Key Tactics**                                                                                      | **Success Metrics**                                       |
+|---------------------------|---------------------------------------------------------------|------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
+| **Occasional / Budget Users** | Drive trial and increase purchase frequency                     | Value bundles, discount campaigns, retargeting ads, educational content                              | Redemption rate, repeat purchase rate, average order value |
+| **Balanced / Core Consumers** | Deepen loyalty and cross-category engagement                   | Personalized recommendations, memberships, gamified loyalty, THC–CBD cross-promotion                 | Retention rate, LTV, category diversity index             |
+| **Premium / Heavy Users**     | Reinforce exclusivity and brand advocacy                       | VIP tiers, premium launches, storytelling campaigns, ambassador programs                             | Repeat purchase frequency, NPS, premium product share     |
+
 ### 1. Occasional / Budget Users
 **Objective:** Increase purchase frequency and brand familiarity among price-sensitive consumers.
 
