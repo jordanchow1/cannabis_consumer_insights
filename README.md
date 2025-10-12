@@ -42,16 +42,40 @@ This project reconstructs and analyzes Canadian cannabis consumer behaviour usin
 
 ## 📊 Key Findings & Personas
 
-- **Cluster 0 – Occasional / Budget Users**  
-  Low spend, low usage frequency; likely CBD-dominant. Ideal for entry-level products or value pricing.
+Through simulated consumer-level data and clustering analysis, three distinct cannabis consumer segments were identified, each characterized by unique spending and usage patterns:
 
-- **Cluster 1 – Balanced / Core Users**  
-  Mid spend, regular usage. Mixed THC/CBD usage. Represents the “mainstream consumer” base.
+### 1. Occasional / Budget Users
+- **Profile:** Low spending frequency (1–2 purchases per month) and below-average monthly expenditure.  
+- **Behavioral Traits:** Price-sensitive, opportunistic shoppers who purchase smaller quantities or lower-THC products, often driven by promotions or convenience.  
+- **Strategic Implications:**  
+  - Attract with **value bundles**, **discount programs**, and **introductory product lines**.  
+  - Use targeted **digital ads** and **loyalty incentives** to build habitual purchasing behavior.  
+  - Potential conversion opportunity through education and trial campaigns.  
 
-- **Cluster 2 – Premium / Heavy Users**  
-  High spend and high frequency. Likely THC-dominant, high value per user. Prime target for premium offerings, subscriptions, or loyalty models.
+### 2. Balanced / Core Consumers
+- **Profile:** Moderate frequency and consistent monthly spend; represent the **largest share** of the simulated population.  
+- **Behavioral Traits:** Exhibit predictable purchasing cycles, balanced interest across THC and CBD categories, and mid-tier brand loyalty.  
+- **Strategic Implications:**  
+  - Maintain retention with **membership programs** and **cross-category bundles** (e.g., combining edibles and flower products).  
+  - Strengthen brand attachment through **personalized recommendations** and **email marketing**.  
+  - Serve as a stabilizing segment for long-term revenue growth.  
 
-These segments highlight how cannabis consumers fall into **Value (CBD)**, **Mainstream (Mixed)**, and **Premium (THC)** archetypes — useful for tailoring marketing and product strategies.
+### 3. Premium / Heavy Users
+- **Profile:** High-frequency purchasers with the **highest monthly spend** and a preference for premium, high-THC products.  
+- **Behavioral Traits:** Brand-loyal, experience-driven consumers who prioritize quality and potency over price.  
+- **Strategic Implications:**  
+  - Focus on **premium product launches**, **limited editions**, and **subscription-style purchasing**.  
+  - Promote **exclusive experiences** (e.g., early access, loyalty tiers) to reinforce engagement.  
+  - Potential ambassadors for **brand advocacy** and **social marketing efforts**.  
+
+---
+
+## Overall Insights
+
+- **Spending intensity** and **usage frequency** are the most discriminating variables in consumer segmentation.  
+- The market displays a **bimodal spending distribution**, suggesting clear differentiation between casual and habitual users.  
+- Across all groups, **product format diversification** (e.g., pre-rolls, edibles, oils) influences purchasing frequency more than spend.  
+- The simulation framework can be extended to test **pricing elasticity** or **promotion scenarios** across segments.
 
 ---
 
