@@ -138,4 +138,4 @@ Based on the identified consumer segments, tailored marketing strategies can be 
 
 ---
 
-By aligning marketing execution with data-informed segmentation, brands can better allocate resources, improve customer experience, and maximize lifetime value (CLV) across diverse consumer groups.
+By aligning marketing execution with data-informed segmentation, brands can better allocate resources, improve customer experience, and maximize lifetime value across diverse consumer groups.
