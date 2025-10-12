@@ -4,7 +4,7 @@ This project reconstructs and analyzes Canadian cannabis consumer behaviour usin
 
 ---
 
-## 🧭 Project Objectives
+## Project Objectives
 
 - Translate summary metrics from a published market research report into simulated microdata for deeper analysis  
 - Explore distributional characteristics (spend, frequency) of consumer segments  
@@ -13,7 +13,7 @@ This project reconstructs and analyzes Canadian cannabis consumer behaviour usin
 
 ---
 
-## 🧠 Methodology & Approach
+## Methodology & Approach
 
 1. **Report Review & Data Extraction**  
    - Began with the Numerator report’s published metrics (e.g. average monthly spend by THC vs CBD users)  
@@ -40,7 +40,7 @@ This project reconstructs and analyzes Canadian cannabis consumer behaviour usin
 
 ---
 
-## 📊 Key Findings & Personas
+## Key Findings & Personas
 
 Through simulated consumer-level data and clustering analysis, three distinct cannabis consumer segments were identified, each characterized by unique spending and usage patterns:
 
@@ -79,11 +79,11 @@ Through simulated consumer-level data and clustering analysis, three distinct ca
 
 ---
 
-## 🎯 Marketing Strategies
+## Marketing Strategies
 
 Based on the identified consumer segments, tailored marketing strategies can be developed to optimize engagement, retention, and conversion across the cannabis market. Each strategy aligns with the behavioral and spending patterns revealed through clustering analysis.
 
-### 📊 Strategy Matrix
+### Strategy Matrix
 
 | **Segment**              | **Primary Objective**                                         | **Key Tactics**                                                                                      | **Success Metrics**                                       |
 |---------------------------|---------------------------------------------------------------|------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
