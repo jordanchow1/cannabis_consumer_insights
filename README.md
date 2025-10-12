@@ -134,7 +134,6 @@ Based on the identified consumer segments, tailored marketing strategies can be 
 - **Omnichannel integration:** Ensure consistency between online, mobile, and in-store touchpoints to build seamless experiences.  
 - **Data-driven personalization:** Use CRM data and behavioral analytics to deliver relevant product recommendations and targeted offers.  
 - **Market feedback loop:** Continuously update persona definitions and strategy effectiveness based on sales and engagement metrics.  
-- **Regulatory alignment:** Maintain compliance with Canadian cannabis marketing standards while promoting educational and responsible messaging.
 
 ---
 
