@@ -1,7 +1,6 @@
 # Cannabis Consumer Insights  
 
-This repository contains an interactive Jupyter Notebook (`cannabis_consumers.ipynb`) that explores consumer behaviour in the cannabis market, using simulated data built on the findings from the **Numerator “Budding Behaviors: Insights Into the Modern Cannabis Consumer”** report. The analysis demonstrates how to go from high-level market report metrics to actionable data insights via clustering, visualization, and segmentation.
-
+This project reconstructs and analyzes Canadian cannabis consumer behaviour using synthetic microdata generated from published market research metrics (Numerator). It replicates core variables such as spending levels, purchase frequency, and product category preferences based on aggregated statistics, then applies data preprocessing, exploratory analysis, and clustering algorithms (e.g., K-Means) to identify distinct consumer segments. The workflow demonstrates how to translate high-level market data into granular behavioral insights, providing a quantitative foundation for market segmentation, pricing optimization, and targeted marketing strategy development.
 ---
 
 ## 🧭 Project Objectives
