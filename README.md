@@ -81,21 +81,53 @@ Through simulated consumer-level data and clustering analysis, three distinct ca
 
 ## 🎯 Marketing Strategies
 
-Based on the identified segments, potential marketing approaches include:  
+Based on the identified consumer segments, tailored marketing strategies can be developed to optimize engagement, retention, and conversion across the cannabis market. Each strategy aligns with the behavioral and spending patterns revealed through clustering analysis.
 
-- **Cluster 0 – Occasional / Budget Users**  
-  - Emphasize affordability and accessibility (discounts, entry-level pricing)  
-  - Highlight health/wellness positioning for CBD-based products  
-  - Use educational campaigns to lower barriers for first-time users  
+### 1. Occasional / Budget Users
+**Objective:** Increase purchase frequency and brand familiarity among price-sensitive consumers.
 
-- **Cluster 1 – Regular / Balanced Users**  
-  - Offer loyalty rewards and bundled product deals to drive retention  
-  - Showcase versatility (mix of CBD & THC product formats: edibles, flower, vapes)  
-  - Focus messaging on everyday integration and balanced lifestyles  
+**Tactics:**
+- Implement **discount-driven campaigns** (e.g., “buy two, get one free” or limited-time promos) to stimulate trial and repeat purchases.  
+- Highlight **affordable entry-level products** through in-store displays and digital advertising.  
+- Use **retargeting ads** and **email drip campaigns** to re-engage inactive customers.  
+- Develop **educational content** (e.g., beginner guides, responsible use messaging) to foster product understanding and trust.  
 
-- **Cluster 2 – Premium / Heavy Users**  
-  - Launch premium product lines (craft flower, high-end vapes, exclusive strains)  
-  - Promote memberships, subscription boxes, or VIP clubs  
-  - Build brand identity around exclusivity, quality, and “connoisseur” experiences  
+**Key Metrics to Monitor:** redemption rates, conversion from trial to repeat, average order value (AOV).
 
-By tailoring strategies to these segments, brands can capture both **volume (budget users)** and **value (premium heavy users)** while maintaining strong engagement with the mainstream base.
+---
+
+### 2. Balanced / Core Consumers
+**Objective:** Strengthen loyalty and encourage cross-category purchasing.
+
+**Tactics:**
+- Introduce **personalized recommendation systems** powered by purchase data or behavioral analytics to promote relevant add-ons.  
+- Offer **membership or subscription programs** with incremental perks (e.g., free delivery, early access to seasonal products).  
+- Cross-promote between **THC and CBD categories** to diversify purchase portfolios.  
+- Use **loyalty-based gamification** (points, tiers, challenges) to maintain engagement over time.  
+
+**Key Metrics to Monitor:** retention rate, lifetime value (LTV), category diversity index.
+
+---
+
+### 3. Premium / Heavy Users
+**Objective:** Enhance exclusivity, brand advocacy, and long-term retention among high-value consumers.
+
+**Tactics:**
+- Design **premium-tier experiences** such as invitation-only product launches or private tasting events.  
+- Leverage **storytelling and brand craftsmanship** in marketing to emphasize quality and authenticity.  
+- Implement **VIP loyalty tiers** offering early access, personalized packaging, or dedicated support.  
+- Encourage **user-generated content** and **community building** through ambassador or referral programs.  
+
+**Key Metrics to Monitor:** repeat purchase frequency, customer advocacy (NPS), premium product share.
+
+---
+
+### Cross-Segment Strategies
+- **Omnichannel integration:** Ensure consistency between online, mobile, and in-store touchpoints to build seamless experiences.  
+- **Data-driven personalization:** Use CRM data and behavioral analytics to deliver relevant product recommendations and targeted offers.  
+- **Market feedback loop:** Continuously update persona definitions and strategy effectiveness based on sales and engagement metrics.  
+- **Regulatory alignment:** Maintain compliance with Canadian cannabis marketing standards while promoting educational and responsible messaging.
+
+---
+
+By aligning marketing execution with data-informed segmentation, brands can better allocate resources, improve customer experience, and maximize lifetime value (CLV) across diverse consumer groups.
