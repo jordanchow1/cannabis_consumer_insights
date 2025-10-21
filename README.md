@@ -1,8 +1,8 @@
 # Cannabis Consumer Insights  
 
-This project explores Canadian cannabis consumer behaviour by simulating microdata from published market research metrics. I recreated spending and usage patterns for ~2,000 consumers and used K-Means clustering to uncover three main segments — Occasional, Core, and Premium users.
+This project explores Canadian cannabis consumer behaviour by reconstructing and analyzing synthetic microdata inspired by published market research. Using metrics from Numerator’s Modern Cannabis Consumer Behavior report, I simulated around 2,000 individual “consumer” records to model spending levels, usage frequency, and product preferences.
 
-The analysis highlights how frequency and spending drive segmentation and offers practical recommendations for pricing, promotions, and brand engagement. Through this process, I learned how to translate top-level market data into granular insights that could guide marketing and product decisions.
+The goal was to turn high-level industry data into granular, consumer-level insights that could inform market segmentation, product positioning, and marketing strategy.
 ---
 
 ## Project Objectives
