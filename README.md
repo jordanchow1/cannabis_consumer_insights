@@ -1,19 +1,16 @@
 # Canadian Cannabis Consumer Insights  
 
-This project explores Canadian cannabis consumer behaviour by reconstructing and analyzing synthetic microdata inspired by published market research. Using metrics from Numerator’s Modern Cannabis Consumer Behavior report, I simulated around 2,000 individual “consumer” records to model spending levels, usage frequency, and product preferences.
+This project explores Canadian cannabis consumer behaviour by reconstructing and analyzing microdata based on published market research. Using metrics from Numerator’s Modern Cannabis Consumer Behavior report, I created a dataset of approximately 2,000 individual consumer records to model spending levels, usage frequency, and product preferences.
 
-The goal was to turn high-level industry data into consumer-level insights that could inform market segmentation, product positioning, and marketing strategy.
+The goal was to transform high-level industry data into consumer-level insights that could inform market segmentation, product positioning, and marketing strategy.
 
 ---
 
 ## Objectives
 
 - Translate summary statistics from published reports into microdata for deeper analysis
-
 - Explore spending and usage distributions across simulated consumer types
-
 - Use clustering (K-Means) to identify distinct buyer personas
-
 - Generate data-driven insights for product, pricing, and marketing strategies
 
 ---
@@ -43,19 +40,16 @@ Three distinct consumer segments emerged from the clustering analysis:
 1. Occasional / Budget Users
 
 - Traits: Low purchase frequency (1–2 per month), below-average monthly spend, price-sensitive, often driven by promotions.
-
 - Marketing focus: Value bundles, loyalty incentives, and educational content
 
 2. Balanced / Core Consumers
 
 - Traits: Moderate spend and frequency; the largest segment by population share. Predictable purchase cycles and balanced interest in THC and CBD products.
-
 - Marketing focus: Membership programs, personalized recommendations, and cross-category bundles
 
 3. Premium / Heavy Users
 
 - Traits: High-frequency buyers with the highest monthly spend; prefer premium and high-THC products.
-
 - Marketing focus: Premium-tier experiences, early access to new products, and storytelling-driven campaigns to strengthen brand advocacy.
 
 ---
