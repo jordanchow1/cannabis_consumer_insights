@@ -18,60 +18,43 @@ The goal was to turn high-level industry data into consumer-level insights that 
 
 ---
 
-## Methodology & Approach
+## Methodology
 
-1. **Report Review & Data Extraction**  
-   - Began with the Numerator report’s published metrics (e.g. average monthly spend by THC vs CBD users)  
-   - Identified key variables (spend, usage frequency) as foundations for deeper modeling  
+1. Data Reconstruction
+I extracted key figures from Numerator’s report—such as average monthly spend and purchase frequency by THC vs. CBD users—and used these as parameters to generate distributions. The dataset simulates ~2,000 consumer profiles balanced between THC and CBD users.
 
-2. **Data Simulation / Synthetic Dataset Creation**  
-   - Generated synthetic distributions for “Monthly Spend” and “Usage Frequency” based on report means and assumed variances  
-   - Combined into a single DataFrame simulating ~2,000 “consumer records” (THC and CBD users)  
+2. Exploratory Data Analysis
+Using Python (Pandas, Matplotlib, Seaborn), I visualized spending and frequency distributions, compared means between groups, and ran statistical tests to understand variability within and across user types.
 
-3. **Exploratory Data Analysis (EDA)**  
-   - Visualized distributions via histograms / density plots  
-   - Computed summary statistics (mean, median, standard deviation, etc.)  
-   - Conducted hypothesis testing (e.g. t-tests) to assess significance between groups  
+3. Clustering & Segmentation
+After scaling numeric features, I applied K-Means clustering (k=3) to group consumers into meaningful clusters. Each cluster was then profiled and interpreted from a marketing perspective, with supporting visualizations and descriptive statistics.
 
-4. **Clustering / Segmentation**  
-   - Applied **K-Means clustering** (k = 3) on scaled features (spend, frequency)  
-   - Mapped cluster assignments back to original units for interpretability  
-   - Visualized clusters via scatterplots  
-
-5. **Interpretation & Insights**  
-   - Characterized each cluster (e.g. “Occasional / budget”, “Balanced / core users”, “Premium / heavy users”)  
-   - Derived marketing / product implications for each persona  
-   - Framed a narrative suitable for a business or consumer insights audience  
+4. Insights & Recommendations
+The clustering results were interpreted to build consumer personas and recommend targeted marketing approaches. These insights illustrate how behavioral segmentation can guide brand strategy, pricing models, and campaign planning.
 
 ---
 
 ## Key Findings & Personas
 
-Through simulated consumer-level data and clustering analysis, three distinct cannabis consumer segments were identified, each characterized by unique spending and usage patterns:
+Three distinct consumer segments emerged from the clustering analysis:
 
-### 1. Occasional / Budget Users
-- **Profile:** Low spending frequency (1–2 purchases per month) and below-average monthly expenditure.  
-- **Behavioral Traits:** Price-sensitive, opportunistic shoppers who purchase smaller quantities or lower-THC products, often driven by promotions or convenience.  
-- **Strategic Implications:**  
-  - Attract with **value bundles**, **discount programs**, and **introductory product lines**.  
-  - Use targeted **digital ads** and **loyalty incentives** to build habitual purchasing behavior.  
-  - Potential conversion opportunity through education and trial campaigns.  
+1. Occasional / Budget Users
 
-### 2. Balanced / Core Consumers
-- **Profile:** Moderate frequency and consistent monthly spend; represent the **largest share** of the simulated population.  
-- **Behavioral Traits:** Exhibit predictable purchasing cycles, balanced interest across THC and CBD categories, and mid-tier brand loyalty.  
-- **Strategic Implications:**  
-  - Maintain retention with **membership programs** and **cross-category bundles** (e.g., combining edibles and flower products).  
-  - Strengthen brand attachment through **personalized recommendations** and **email marketing**.  
-  - Serve as a stabilizing segment for long-term revenue growth.  
+- Traits: Low purchase frequency (1–2 per month), below-average monthly spend, price-sensitive, often driven by promotions.
 
-### 3. Premium / Heavy Users
-- **Profile:** High-frequency purchasers with the **highest monthly spend** and a preference for premium, high-THC products.  
-- **Behavioral Traits:** Brand-loyal, experience-driven consumers who prioritize quality and potency over price.  
-- **Strategic Implications:**  
-  - Focus on **premium product launches**, **limited editions**, and **subscription-style purchasing**.  
-  - Promote **exclusive experiences** (e.g., early access, loyalty tiers) to reinforce engagement.  
-  - Potential ambassadors for **brand advocacy** and **social marketing efforts**.  
+- Marketing focus: Value bundles, loyalty incentives, and educational content to encourage repeat purchasing and brand trust.
+
+2. Balanced / Core Consumers
+
+- Traits: Moderate spend and frequency; the largest segment by population share. Predictable purchase cycles and balanced interest in THC and CBD products.
+
+- Marketing focus: Membership programs, personalized recommendations, and cross-category bundles to deepen loyalty.
+
+3. Premium / Heavy Users
+
+- Traits: High-frequency buyers with the highest monthly spend; prefer premium and high-THC products.
+
+- Marketing focus: Premium-tier experiences, early access to new products, and storytelling-driven campaigns to strengthen brand advocacy.
 
 ---
 
