@@ -2,7 +2,8 @@
 
 This project explores Canadian cannabis consumer behaviour by reconstructing and analyzing synthetic microdata inspired by published market research. Using metrics from Numerator’s Modern Cannabis Consumer Behavior report, I simulated around 2,000 individual “consumer” records to model spending levels, usage frequency, and product preferences.
 
-The goal was to turn high-level industry data into granular, consumer-level insights that could inform market segmentation, product positioning, and marketing strategy.
+The goal was to turn high-level industry data into consumer-level insights that could inform market segmentation, product positioning, and marketing strategy.
+
 ---
 
 ## Project Objectives
