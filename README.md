@@ -21,16 +21,16 @@ The goal was to turn high-level industry data into consumer-level insights that 
 ## Methodology
 
 1. Data Reconstruction
-I extracted key figures from Numerator’s report—such as average monthly spend and purchase frequency by THC vs. CBD users—and used these as parameters to generate distributions. The dataset simulates ~2,000 consumer profiles balanced between THC and CBD users.
+- I extracted key figures from Numerator’s report—such as average monthly spend and purchase frequency by THC vs. CBD users—and used these as parameters to generate distributions. The dataset simulates ~2,000 consumer profiles balanced between THC and CBD users.
 
 2. Exploratory Data Analysis
-Using Python (Pandas, Matplotlib, Seaborn), I visualized spending and frequency distributions, compared means between groups, and ran statistical tests to understand variability within and across user types.
+- Using Python (Pandas, Matplotlib, Seaborn), I visualized spending and frequency distributions, compared means between groups, and ran statistical tests to understand variability within and across user types.
 
 3. Clustering & Segmentation
-After scaling numeric features, I applied K-Means clustering (k=3) to group consumers into meaningful clusters. Each cluster was then profiled and interpreted from a marketing perspective, with supporting visualizations and descriptive statistics.
+- After scaling numeric features, I applied K-Means clustering (k=3) to group consumers into meaningful clusters. Each cluster was then profiled and interpreted from a marketing perspective, with supporting visualizations and descriptive statistics.
 
 4. Insights & Recommendations
-The clustering results were interpreted to build consumer personas and recommend targeted marketing approaches. These insights illustrate how behavioral segmentation can guide brand strategy, pricing models, and campaign planning.
+- The clustering results were interpreted to build consumer personas and recommend targeted marketing approaches. These insights illustrate how behavioral segmentation can guide brand strategy, pricing models, and campaign planning.
 
 ---
 
