@@ -54,6 +54,9 @@ The goal was to transform high-level industry research into consumer-level insig
 ## Visual Highlights  
 
 ![Scatterplot](https://github.com/jordanchow1/cannabis_consumer_insights/blob/main/monthly-spend-vs-usage-frequency.png)
+![Projected](https://github.com/jordanchow1/cannabis_consumer_insights/blob/main/projected_spend.png)
+![distribution](https://github.com/jordanchow1/cannabis_consumer_insights/blob/main/spend_distribution.png)
+![user_type](https://github.com/jordanchow1/cannabis_consumer_insights/blob/main/user_type.png)
 
 ---
 
