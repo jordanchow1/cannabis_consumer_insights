@@ -36,6 +36,8 @@ The goal was to turn high-level industry data into consumer-level insights that 
 
 ## Key Findings & Personas
 
+![Alt text](https://github.com/jordanchow1/cannabis_consumer_insights/blob/main/monthly-spend-vs-usage-frequency.png)
+
 Three distinct consumer segments emerged from the clustering analysis:
 
 1. Occasional / Budget Users
