@@ -36,7 +36,7 @@ The goal was to turn high-level industry data into consumer-level insights that 
 
 ## Key Findings & Personas
 
-![Alt text](https://github.com/jordanchow1/cannabis_consumer_insights/blob/main/monthly-spend-vs-usage-frequency.png)
+![Scatterplot](https://github.com/jordanchow1/cannabis_consumer_insights/blob/main/monthly-spend-vs-usage-frequency.png)
 
 Three distinct consumer segments emerged from the clustering analysis:
 
@@ -44,13 +44,13 @@ Three distinct consumer segments emerged from the clustering analysis:
 
 - Traits: Low purchase frequency (1–2 per month), below-average monthly spend, price-sensitive, often driven by promotions.
 
-- Marketing focus: Value bundles, loyalty incentives, and educational content to encourage repeat purchasing and brand trust.
+- Marketing focus: Value bundles, loyalty incentives, and educational content
 
 2. Balanced / Core Consumers
 
 - Traits: Moderate spend and frequency; the largest segment by population share. Predictable purchase cycles and balanced interest in THC and CBD products.
 
-- Marketing focus: Membership programs, personalized recommendations, and cross-category bundles to deepen loyalty.
+- Marketing focus: Membership programs, personalized recommendations, and cross-category bundles
 
 3. Premium / Heavy Users
 
@@ -66,7 +66,3 @@ Three distinct consumer segments emerged from the clustering analysis:
 - The market displays a **bimodal spending distribution**, suggesting clear differentiation between casual and habitual users.  
 - Across all groups, **product format diversification** (e.g., pre-rolls, edibles, oils) influences purchasing frequency more than spend.  
 - The simulation framework can be extended to test **pricing elasticity** or **promotion scenarios** across segments.
-
-## Reflection
-
-Working on this project showed me how much I enjoy connecting data with real-world challenges. Using clustering and statistical analysis to uncover patterns and personas made the process both creative and analytical. It was an experience that deepened my appreciation for data-driven storytelling in market research.
