@@ -76,7 +76,17 @@ The goal was to transform high-level industry research into consumer-level insig
 
 ### 4. Insights & Validation  
 - Compared simulated results to public benchmarks.  
-- Extracted business-relevant insights and strategic opportunities.  
+- Extracted business-relevant insights and strategic opportunities.
+
+## Tools
+- **Language:** Python 3.10  
+- **Libraries:**  
+  - `pandas`, `numpy` — data manipulation and random sampling  
+  - `matplotlib`, `seaborn`, `plotly` — data visualization and exploratory analysis  
+  - `scikit-learn` — clustering (K-Means) and scaling  
+  - `scipy.stats` — probability distributions for generating realistic numeric patterns  
+
+---
 
 ## 🪜 Next Steps  
 - Integrate regional and demographic dimensions using open datasets (e.g., StatCan).  
