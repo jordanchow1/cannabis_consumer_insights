@@ -6,12 +6,15 @@ The goal was to turn high-level industry data into consumer-level insights that 
 
 ---
 
-## Project Objectives
+## Objectives
 
-- Translate summary metrics from a published market research report into simulated microdata for deeper analysis  
-- Explore distributional characteristics (spend, frequency) of consumer segments  
-- Apply clustering techniques (K-means) to uncover distinct consumer personas  
-- Generate insights and recommendations for product strategy, marketing, and segmentation  
+- Translate summary statistics from published reports into microdata for deeper analysis
+
+- Explore spending and usage distributions across simulated consumer types
+
+- Use clustering (K-Means) to identify distinct buyer personas
+
+- Generate data-driven insights for product, pricing, and marketing strategies
 
 ---
 
