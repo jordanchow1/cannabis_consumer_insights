@@ -9,10 +9,10 @@ The goal was to transform high-level industry research into consumer-level insig
 
 ## Objectives
 
-- Translate summary statistics from published reports into microdata for deeper analysis
-- Explore spending and usage distributions across simulated consumer types
-- Use clustering (K-Means) to identify distinct buyer personas
-- Generate data-driven insights for product, pricing, and marketing strategies
+- Model consumer-level data from published industry statistics
+- Identify distinct behavioural segments in the cannabis market
+- Explore relationships between spending, frequency, and product choices
+- Demonstrate how data science can translate research metrics into actionable insight
 
 ---
 
@@ -34,30 +34,48 @@ The goal was to transform high-level industry research into consumer-level insig
 
 ## Key Findings & Personas
 
-![Scatterplot](https://github.com/jordanchow1/cannabis_consumer_insights/blob/main/monthly-spend-vs-usage-frequency.png)
+- Identified **three distinct consumer segments**:
+  1. **High-Spend Enthusiasts** — frequent users spending $180+ monthly, primarily purchasing THC flower products  
+  2. **Moderate Experimenters** — weekly users with moderate spend ($80–120), often choosing edibles  
+  3. **Casual Buyers** — low-spend, infrequent users preferring vapes and oils  
 
-Three distinct consumer segments emerged from the clustering analysis:
-
-1. Occasional / Budget Users
-
-- Traits: Low purchase frequency (1–2 per month), below-average monthly spend, price-sensitive, often driven by promotions.
-- Marketing focus: Value bundles, loyalty incentives, and educational content
-
-2. Balanced / Core Consumers
-
-- Traits: Moderate spend and frequency; the largest segment by population share. Predictable purchase cycles and balanced interest in THC and CBD products.
-- Marketing focus: Membership programs, personalized recommendations, and cross-category bundles
-
-3. Premium / Heavy Users
-
-- Traits: High-frequency buyers with the highest monthly spend; prefer premium and high-THC products.
-- Marketing focus: Premium-tier experiences, early access to new products, and storytelling-driven campaigns to strengthen brand advocacy.
+- **Spending and usage frequency** are strongly correlated *(r ≈ 0.78)*, suggesting high-value opportunities in habitual user segments.  
+- Product preferences shift toward **edibles and oils** as consumers move from experimental to regular use.  
 
 ---
 
-## Overall Insights
+## 💼 Business Implications  
+- **Segmentation Targeting:** Enables tailored marketing strategies for high-value consumers based on spend and frequency profiles.  
+- **Product Development:** Suggests opportunity for mid-tier product bundles or subscription models for moderate users.  
+- **Strategic Insight:** Demonstrates how reconstructed microdata can fill data gaps and support decision-making in emerging markets.
 
-- **Spending intensity** and **usage frequency** are the most discriminating variables in consumer segmentation.  
-- The market displays a **bimodal spending distribution**, suggesting clear differentiation between casual and habitual users.  
-- Across all groups, **product format diversification** (e.g., pre-rolls, edibles, oils) influences purchasing frequency more than spend.  
-- The simulation framework can be extended to test **pricing elasticity** or **promotion scenarios** across segments.
+---
+
+## Visual Highlights  
+
+![Scatterplot](https://github.com/jordanchow1/cannabis_consumer_insights/blob/main/monthly-spend-vs-usage-frequency.png)
+
+---
+
+## Methodology  
+
+### 1. Data Generation  
+- Used published metrics (spending brackets, usage rates, product category shares) from Numerator’s *Modern Cannabis Consumer Behavior* report.  
+- Reconstructed consumer-level data distributions (~2,000 rows) to reflect realistic market patterns.  
+
+### 2. Exploratory Analysis  
+- Visualized spend, frequency, and product distribution using `matplotlib` and `plotly`.  
+- Examined relationships between variables using correlation and clustering.  
+
+### 3. Segmentation  
+- Applied **K-Means clustering** to identify consumer groups based on spend and frequency.  
+- Profiled each segment and analyzed product preference tendencies.  
+
+### 4. Insights & Validation  
+- Compared simulated results to public benchmarks.  
+- Extracted business-relevant insights and strategic opportunities.  
+
+## 🪜 Next Steps  
+- Integrate regional and demographic dimensions using open datasets (e.g., StatCan).  
+- Deploy an interactive dashboard using **Tableau** or **Power BI**.  
+- Expand clustering features to include psychographics and brand loyalty indicators. 
