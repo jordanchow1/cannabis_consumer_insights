@@ -67,4 +67,4 @@ Three distinct consumer segments emerged from the clustering analysis:
 
 ## Reflection
 
-This project reinforced how quantitative methods can bring structure and depth to market research. I particularly enjoyed bridging data science techniques—like clustering and hypothesis testing—with marketing applications such as persona development and campaign strategy. It was a valuable exercise in translating published research into actionable insights.
+Working on this project showed me how much I enjoy connecting data with real-world challenges. Using clustering and statistical analysis to uncover patterns and personas made the process both creative and analytical. It was an experience that deepened my appreciation for data-driven storytelling in market research.
