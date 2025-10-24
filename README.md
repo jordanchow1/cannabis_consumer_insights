@@ -88,7 +88,7 @@ The goal was to transform high-level industry research into consumer-level insig
 
 ---
 
-## 🪜 Next Steps  
+## Next Steps  
 - Integrate regional and demographic dimensions using open datasets (e.g., StatCan).  
 - Deploy an interactive dashboard using **Tableau** or **Power BI**.  
 - Expand clustering features to include psychographics and brand loyalty indicators. 
