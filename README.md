@@ -32,7 +32,7 @@ The goal was to transform high-level industry research into consumer-level insig
 
 ---
 
-## Key Findings & Personas
+## Key Findings
 
 - Identified **three distinct consumer segments**:
   1. **High-Spend Enthusiasts** — frequent users spending $180+ monthly, primarily purchasing THC flower products  
@@ -44,7 +44,7 @@ The goal was to transform high-level industry research into consumer-level insig
 
 ---
 
-## 💼 Business Implications  
+## Business Implications  
 - **Segmentation Targeting:** Enables tailored marketing strategies for high-value consumers based on spend and frequency profiles.  
 - **Product Development:** Suggests opportunity for mid-tier product bundles or subscription models for moderate users.  
 - **Strategic Insight:** Demonstrates how reconstructed microdata can fill data gaps and support decision-making in emerging markets.
