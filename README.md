@@ -1,6 +1,6 @@
 # Canadian Cannabis Consumer Insights  
 
-This project analyzes Canadian cannabis consumer behaviour by reconstructing microdata inspired by Numerator’s Modern Cannabis Consumer Behavior report.
+This project analyzes Canadian cannabis consumer behaviour by reconstructing data published in Numerator’s Cannabis Consumer Behaviour report.
 Using published metrics, I built a dataset of roughly 2,000 individual consumer records to model spending levels, usage frequency, and product preferences.
 
 The goal was to transform high-level industry research into consumer-level insights that inform market segmentation, product positioning, and marketing strategy.
